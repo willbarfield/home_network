@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-10T21:33:19.406Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="x31KH31hAfWj5-NH7VJr" version="21.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-10T21:34:39.041Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="iQArEgUgpySqbjr31EdQ" version="21.3.8" type="github">
   <diagram name="Page-1" id="mjCCxj_swEP4KvGxpKAS">
     <mxGraphModel dx="794" dy="1165" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -55,7 +55,7 @@
             <mxPoint x="150" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wo0ciTgMhSi1uJN295z3-24" value="VLAN ID 1 - 192.168.42.1/24&lt;br&gt;VLAN ID 10 - Guest WiFi - 192.168.10.1/24&lt;br&gt;VLAN ID 107 - IoT Network - 192.168.107.1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="wo0ciTgMhSi1uJN295z3-24" value="VLAN ID 1 - Secure - 192.168.42.1/24&lt;br&gt;VLAN ID 10 - Guest WiFi - 192.168.10.1/24&lt;br&gt;VLAN ID 107 - IoT Network - 192.168.107.1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="370" y="115" width="260" height="60" as="geometry" />
         </mxCell>
       </root>
